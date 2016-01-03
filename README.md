@@ -1,7 +1,7 @@
 # stocks-comparison
 A stock comparison app built on Python Tkinter package
 
-Project proposes to compare stocks based on their historical data and try to use prediction models to approximate their future performance.  
+Project proposes to compare stocks based on their historical data and try to use prediction models to approximate their future performance.  See images __Demo 1.jpg__ and __Demo 2.jpg__ in the root for more details.
 
 1. It is very simple GUI based app where user may add multiple tickers and give a date range.    
 2. App has few listed FE101 operations like:    
